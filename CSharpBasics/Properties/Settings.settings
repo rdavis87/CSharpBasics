@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSharpBasics.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppSetting1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">app setting1 value</Value>
+    </Setting>
+    <Setting Name="AppSetting2" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AppSetting3" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1.1</Value>
+    </Setting>
+    <Setting Name="UserSetting1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user setting1 value</Value>
+    </Setting>
+    <Setting Name="UserSetting2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="UserSetting3" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
